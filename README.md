@@ -25,6 +25,7 @@ Checklist to show what operations have and yet to happen on the data.
   - [ ] Removing Non-English words.
   - [ ] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
+  - [x] Binarize `toxic`.
   - [ ] Basic Text Preprocessing:.
     - [ ] Remove *Newlines*.
     - [ ] Remove *Special Characters*.
