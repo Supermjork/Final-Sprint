@@ -4,10 +4,9 @@ Graduation Project for Sprints' AI &amp; ML Course, Building a LLM (Large Langua
 
 ## Tasks
 
-Tasks to be done upon the data.
+Checklist to show what operations have and yet to happen on the data.
 
 - Load the data [x]
-
 - Explore data:
     1. Read Inside [x]
     2. Overview the data [x]
@@ -23,3 +22,14 @@ Tasks to be done upon the data.
     2. Lowercasing []
     3. Removing Non-English words []
     4. Lemmatisation/Stemming []
+- Functional Modularity:
+    1. Basic Text Preprocessing:
+        1. Remove *Newlines* []
+        2. Remove *Special Characters* []
+        3. Remove *URLs* []
+        4. Remove *IPs* []
+    2. NLP Functions:
+        1. Stopword []
+        2. Lowercase []
+        3. Non-English []
+        4. Lemmatise/Stem []
