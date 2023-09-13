@@ -6,13 +6,13 @@ Graduation Project for Sprints' AI &amp; ML Course, Building a LLM (Large Langua
 
 Checklist to show what operations have and yet to happen on the data.
 
-- [ ] Load the data
-- [ ] Explore data:
-  - [ ] Read Inside
-  - [ ] Overview the data
-  - Explain what is to be done
-  - Define Patterns to be replaced
-- [ ]Cleaning:
+- [x] Load the data
+- [x] Explore data:
+  - [x] Read Inside
+  - [x] Overview the data
+  - [x] Explain what is to be done
+  - [x] Define Patterns to be replaced
+- [ ] Cleaning:
   - [ ] Remove *Newlines*
   - [ ] Remove *Special Characters*
   - [ ] Remove *URLs*
