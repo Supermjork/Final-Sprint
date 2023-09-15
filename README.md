@@ -20,18 +20,20 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Remove *URLs*.
   - [x] Remove *IPs*.
 - [ ] NLP Preprocessing:
+  - [x] Tokenization
   - [ ] Removal of Stopwords.
   - [ ] Lowercasing.
   - [ ] Removing Non-English words.
   - [ ] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
   - [x] Binarize `toxic`.
-  - [ ] Basic Text Preprocessing:.
-    - [ ] Remove *Newlines*.
-    - [ ] Remove *Special Characters*.
-    - [ ] Remove *URLs*.
-    - [ ] Remove *IPs*.
+  - [x] Basic Text Preprocessing:.
+    - [x] Remove *Newlines*.
+    - [x] Remove *Special Characters*.
+    - [x] Remove *URLs*.
+    - [x] Remove *IPs*.
   - [ ] NLP Functions:
+    - [x] Tokenization
     - [ ] Stopword.
     - [ ] Lowercase.
     - [ ] Non-English.
