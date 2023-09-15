@@ -12,13 +12,13 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Overview the data.
   - [x] Explain what is to be done.
   - [x] Define Patterns to be replaced.
-- [ ] Cleaning:
+- [x] Cleaning:
   - [x] Collapsing `toxic` Derivatives.
   - [x] Dropping `id` and collapsed columns.
-  - [ ] Remove *Newlines*.
-  - [ ] Remove *Special Characters*.
-  - [ ] Remove *URLs*.
-  - [ ] Remove *IPs*.
+  - [x] Remove *Newlines*.
+  - [x] Remove *Special Characters*.
+  - [x] Remove *URLs*.
+  - [x] Remove *IPs*.
 - [ ] NLP Preprocessing:
   - [ ] Removal of Stopwords.
   - [ ] Lowercasing.
