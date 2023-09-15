@@ -21,8 +21,8 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Remove *IPs*.
 - [ ] NLP Preprocessing:
   - [x] Tokenization
-  - [ ] Removal of Stopwords.
-  - [ ] Lowercasing.
+  - [x] Removal of Stopwords.
+  - [x] Lowercasing.
   - [ ] Removing Non-English words.
   - [ ] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
@@ -34,7 +34,7 @@ Checklist to show what operations have and yet to happen on the data.
     - [x] Remove *IPs*.
   - [ ] NLP Functions:
     - [x] Tokenization
-    - [ ] Stopword.
-    - [ ] Lowercase.
+    - [x] Stopword.
+    - [x] Lowercase.
     - [ ] Non-English.
     - [ ] Lemmatise/Stem.
