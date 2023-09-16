@@ -12,27 +12,29 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Overview the data.
   - [x] Explain what is to be done.
   - [x] Define Patterns to be replaced.
-- [ ] Cleaning:
+- [x] Cleaning:
   - [x] Collapsing `toxic` Derivatives.
   - [x] Dropping `id` and collapsed columns.
-  - [ ] Remove *Newlines*.
-  - [ ] Remove *Special Characters*.
-  - [ ] Remove *URLs*.
-  - [ ] Remove *IPs*.
-- [ ] NLP Preprocessing:
-  - [ ] Removal of Stopwords.
-  - [ ] Lowercasing.
-  - [ ] Removing Non-English words.
-  - [ ] Lemmatisation/Stemming.
+  - [x] Remove *Newlines*.
+  - [x] Remove *Special Characters*.
+  - [x] Remove *URLs*.
+  - [x] Remove *IPs*.
+- [x] NLP Preprocessing:
+  - [x] Tokenization
+  - [x] Removal of Stopwords.
+  - [x] Lowercasing.
+  - [x] Removing Non-English words.
+  - [x] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
   - [x] Binarize `toxic`.
-  - [ ] Basic Text Preprocessing:.
-    - [ ] Remove *Newlines*.
-    - [ ] Remove *Special Characters*.
-    - [ ] Remove *URLs*.
-    - [ ] Remove *IPs*.
-  - [ ] NLP Functions:
-    - [ ] Stopword.
-    - [ ] Lowercase.
-    - [ ] Non-English.
-    - [ ] Lemmatise/Stem.
+  - [x] Basic Text Preprocessing:.
+    - [x] Remove *Newlines*.
+    - [x] Remove *Special Characters*.
+    - [x] Remove *URLs*.
+    - [x] Remove *IPs*.
+  - [x] NLP Functions:
+    - [x] Tokenization
+    - [x] Stopword.
+    - [x] Lowercase.
+    - [x] Non-English.
+    - [x] Lemmatise/Stem.
