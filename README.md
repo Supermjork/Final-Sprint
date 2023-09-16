@@ -19,12 +19,12 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Remove *Special Characters*.
   - [x] Remove *URLs*.
   - [x] Remove *IPs*.
-- [ ] NLP Preprocessing:
+- [x] NLP Preprocessing:
   - [x] Tokenization
   - [x] Removal of Stopwords.
   - [x] Lowercasing.
   - [x] Removing Non-English words.
-  - [ ] Lemmatisation/Stemming.
+  - [x] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
   - [x] Binarize `toxic`.
   - [x] Basic Text Preprocessing:.
@@ -37,4 +37,4 @@ Checklist to show what operations have and yet to happen on the data.
     - [x] Stopword.
     - [x] Lowercase.
     - [x] Non-English.
-    - [ ] Lemmatise/Stem.
+    - [x] Lemmatise/Stem.
