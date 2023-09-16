@@ -32,7 +32,7 @@ Checklist to show what operations have and yet to happen on the data.
     - [x] Remove *Special Characters*.
     - [x] Remove *URLs*.
     - [x] Remove *IPs*.
-  - [ ] NLP Functions:
+  - [x] NLP Functions:
     - [x] Tokenization
     - [x] Stopword.
     - [x] Lowercase.
