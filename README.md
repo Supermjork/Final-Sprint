@@ -23,7 +23,7 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Tokenization
   - [x] Removal of Stopwords.
   - [x] Lowercasing.
-  - [ ] Removing Non-English words.
+  - [x] Removing Non-English words.
   - [ ] Lemmatisation/Stemming.
 - [ ] Functional Modularity:
   - [x] Binarize `toxic`.
@@ -36,5 +36,5 @@ Checklist to show what operations have and yet to happen on the data.
     - [x] Tokenization
     - [x] Stopword.
     - [x] Lowercase.
-    - [ ] Non-English.
+    - [x] Non-English.
     - [ ] Lemmatise/Stem.
