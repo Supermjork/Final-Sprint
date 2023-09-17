@@ -25,7 +25,28 @@ Checklist to show what operations have and yet to happen on the data.
   - [x] Lowercasing.
   - [x] Removing Non-English words.
   - [x] Lemmatisation/Stemming.
-- [ ] Functional Modularity:
+
+---
+
+- [ ] Transformer:
+  - [ ] Positional Encoding.
+  - [ ] Multi-Head Attention.
+  - [ ] Feed-Forward Neural Network.
+  - [ ] Encoder Block:
+    - [ ] Source Input.
+    - [ ] Embed.
+    - [ ] Normalize.
+    - [ ] Feed-Forward.
+  - [ ] Decoder Block:
+    - [ ] Target Input.
+    - [ ] Masking.
+    - [ ] Normalise.
+    - [ ] Cross-Head.
+  - [ ] Combining Blocks.
+
+---
+
+- [x] Functional Modularity:
   - [x] Binarize `toxic`.
   - [x] Basic Text Preprocessing:.
     - [x] Remove *Newlines*.
