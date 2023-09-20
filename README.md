@@ -30,21 +30,23 @@ Checklist to show what operations have and yet to happen on the data.
 
 ---
 
-- [ ] Transformer:
-  - [ ] Positional Encoding.
-  - [ ] Multi-Head Attention.
-  - [ ] Feed-Forward Neural Network.
-  - [ ] Encoder Block:
-    - [ ] Source Input.
-    - [ ] Embed.
-    - [ ] Normalize.
-    - [ ] Feed-Forward.
-  - [ ] Decoder Block:
-    - [ ] Target Input.
-    - [ ] Masking.
-    - [ ] Normalise.
-    - [ ] Cross-Head.
-  - [ ] Combining Blocks.
+- [x] Transformer:
+  - [x] Positional Encoding.
+  - [x] Multi-Head Attention.
+  - [x] Feed-Forward Neural Network.
+  - [x] Encoder Block:
+    - [x] Source Input.
+    - [x] Embed.
+    - [x] Normalize.
+    - [x] Feed-Forward.
+  - [x] Decoder Block:
+    - [x] Target Input.
+    - [x] Masking.
+    - [x] Normalise.
+    - [x] Cross-Head.
+  - [x] Combining Blocks.
+- [ ] Classification Transformer
+  - Encoder
 
 ---
 
